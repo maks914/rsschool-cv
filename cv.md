@@ -4,7 +4,7 @@
 * discord: @maks914
 ***********************************
 # About me
-My goal is to become a JS programmer
+My goal is to become a JS programmer.
 
 My strength is that I am not afraid of difficulties.
 
